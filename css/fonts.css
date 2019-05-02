@@ -1,0 +1,56 @@
+@font-face{
+	src: url(../fonts/HelveticaNeue/HelveticaNeue.ttf);
+	font-family: "HelveticaNeue";
+}
+@font-face{
+	src: url(../fonts/HelveticaNeue/HelveticaNeue-Bold.ttf);
+	font-family: "HelveticaNeue-Bold";
+}
+@font-face{
+	src: url(../fonts/HelveticaNeue/HelveticaNeue-Italic.ttf);
+	font-family: "HelveticaNeue-Italic";
+}
+@font-face{
+	src: url(../fonts/HelveticaNeue/HelveticaNeue-LightItalic.ttf);
+	font-family: "HelveticaNeue-LightItalic";
+}
+@font-face{
+	src: url(../fonts/HelveticaNeue/HelveticaNeue-Light.ttf);
+	font-family: "HelveticaNeue-Light";
+}
+@font-face{
+	src: url(../fonts/Lato/LatoBold/LatoBold.woff);
+	src: url(../fonts/Lato/LatoBold/LatoBold.ttf);
+	src: url(../fonts/Lato/LatoBold/LatoBold.eot);
+	font-family: "LatoBold";
+}
+@font-face{
+	src: url(../fonts/Lato/LatoRegular/LatoRegular.woff);
+	src: url(../fonts/Lato/LatoRegular/LatoRegular.ttf);
+	src: url(../fonts/Lato/LatoRegular/LatoRegular.eot);
+	font-family: "LatoRegular";
+}
+@font-face{
+	src: url(../fonts/Lato/LatoLight/LatoLight.woff);
+	src: url(../fonts/Lato/LatoLight/LatoLight.ttf);
+	src: url(../fonts/Lato/LatoLight/LatoLight.eot);
+	font-family: "LatoLight";
+}
+@font-face{
+	src: url(../fonts/Lato/LatoItalic/LatoItalic.woff);
+	src: url(../fonts/Lato/LatoItalic/LatoItalic.ttf);
+	src: url(../fonts/Lato/LatoItalic/LatoItalic.eot);
+	font-family: "LatoItalic";
+}
+@font-face{
+	src: url(../fonts/Lato/LatoLightItalic/LatoLightItalic.woff);
+	src: url(../fonts/Lato/LatoLightItalic/LatoLightItalic.ttf);
+	src: url(../fonts/Lato/LatoLightItalic/LatoLightItalic.eot);
+	font-family: "LatoLightItalic";
+}
+@font-face{
+	src: url(../fonts/Lato/LatoBoldItalic/LatoBoldItalic.woff);
+	src: url(../fonts/Lato/LatoBoldItalic/LatoBoldItalic.ttf);
+	src: url(../fonts/Lato/LatoBoldItalic/LatoBoldItalic.eot);
+	font-family: "LatoBoldItalic";
+}
